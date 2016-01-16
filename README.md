@@ -1,4 +1,7 @@
 # <code>    god, i  think          about how to          love.</code>
+
+generated poetry, corpus a mystery
+
 <pre>It is the 
 working next 
   day of dying
