@@ -1,6 +1,6 @@
 # <code>    god, i  think          about how to          love.</code>
 
-generated poetry, corpus a mystery
+<pre>generated poetry, corpus a mystery</pre>
 
 <pre>It is the 
 working next 
